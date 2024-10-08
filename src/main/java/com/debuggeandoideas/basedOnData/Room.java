@@ -1,7 +1,7 @@
 package com.debuggeandoideas.basedOnData;
 
+import com.debuggeandoideas.commons.RoomSize;
 import lombok.Data;
-import java.util.List;
 
 @Data
 public class Room {

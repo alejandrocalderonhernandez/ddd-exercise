@@ -1,4 +1,4 @@
-package com.debuggeandoideas.basedOnData;
+package com.debuggeandoideas.commons;
 
 public enum RoomSize {
     SINGLE,

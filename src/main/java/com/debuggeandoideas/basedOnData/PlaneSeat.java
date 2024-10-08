@@ -1,5 +1,6 @@
 package com.debuggeandoideas.basedOnData;
 
+import com.debuggeandoideas.commons.SeatSize;
 import lombok.Data;
 
 @Data
